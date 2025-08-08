@@ -5,6 +5,12 @@ and dump it to several output formats.
 
 The software is popular among Russian public offices, companies and police agencies.
 
+## C# rewrite
+
+An experimental C# rewrite lives in `src/Cronodump`.  The current code provides
+only a minimal `Datafile` class and console entry point and does not yet cover
+the full functionality of the original Python tools.
+
 
 # Quick start
 
